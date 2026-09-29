@@ -1,0 +1,5 @@
+pywebview
+pythonnet
+pycryptodome
+pyinstaller
+pillow

@@ -1,0 +1,18 @@
+# 转换输出（可能含个人音乐文件，绝不入库）
+output/
+
+# 打包产物与构建环境（exe 走 GitHub Release 发布）
+dist/
+build/venv/
+build/work/
+/MusicUnlock.exe
+/MusicUnlock-v*.zip
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 测试样本
+test_samples/
+batch_test/
+batch_out/
